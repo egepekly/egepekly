@@ -16,7 +16,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/753897271451451433?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/753897271451451433)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pekkolayege&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=maxifycode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 ## 🚀 Languages:
