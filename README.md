@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://www.instagram.com/ege.pekkolay/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://www.instagram.com/egepekkolay/)
 
 
 - 🔭 Server Developer
@@ -6,10 +6,10 @@
 - 😄 Full-Stack Web Geliştiricisi
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](egzzzzzz1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](destek@maxifyazilim.com.tr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KD2cSKpyWU)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Steam](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/egepekl_/)
+[![Steam](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/egepekkolay/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/eqgag5ro1qrvvijyqot5h08f4)
 
 
@@ -52,6 +52,6 @@
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pekkolayege">
+    <img src="https://komarev.com/ghpvc/?username=Egepekly">
 </a>
 <a href=""><img src="https://img.shields.io/github/followers/pekkolayege?label=Followers&style=social" alt="GitHub Badge"></a>
