@@ -54,4 +54,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Egepekly">
 </a>
-<a href=""><img src="https://img.shields.io/github/followers/pekkolayege?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href=""><img src="https://img.shields.io/github/followers/Egepekly
+?label=Followers&style=social" alt="GitHub Badge"></a>
