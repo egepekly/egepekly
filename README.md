@@ -8,7 +8,7 @@
 <p align="left"><img align="left" src="https://github.com/egepekly/graphic/blob/main/loader.gif" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Full-Stack Developer & ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://egepekkolay.net.tr" target="_blank">Portfolio</a> to know more about me ...</li>
