@@ -15,7 +15,7 @@
 </ul>
 <br><br><br><br>
 
-<p align="left"><img width="117" alt="Frame 24" src="https://github.com/egepekly/graphic/blob/main/loader.gif"></p>
+<p align="left"><img width="117" alt="Frame 24" src="https://github.com/egepekly/graphic/blob/main/dindme.png"></p>
 <br>
 
 
