@@ -25,7 +25,7 @@
 <p align="left">
  <a href="https://tr.linkedin.com/in/ege-pekkolay" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/linkedin.png" alt="Linkdin" height="50" title="linkdin"></a>
   <a href="mailto:info@egepekkolay.net.tr" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/gmail.png" alt="Gmail" height="50" title="Gmail"></a>
-  <a href="https://twitter.com/Vinod_Jangid07" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/x.png" alt="Twitter" height="50" title="Twitter"></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/x.png" alt="Twitter" height="50" title="Twitter"></a>
  <a href="https://www.instagram.com/egepekkolay/" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/instagram.png" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/egepekkolay" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/u%C4%B1.png" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/egepekkolay" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/codepen.png" alt="Codepen" height="50" title="Codepen"></a>
