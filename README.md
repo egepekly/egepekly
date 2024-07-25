@@ -15,7 +15,7 @@
 </ul>
 <br><br><br><br>
 
-<p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
+<p align="left"><img width="117" alt="Frame 24" src="https://github.com/egepekly/graphic/blob/main/loader.gif"></p>
 <br>
 
 
