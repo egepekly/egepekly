@@ -32,7 +32,9 @@
  <a href="https://vinodjangid07.github.io/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Egepekly&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![](https://github-readme-stats.vercel.app/api?username=egepekly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=egepekly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🚀 Languages:
