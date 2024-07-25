@@ -5,7 +5,7 @@
 <a href="https://egepekkolay.net.tr" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/egepekly/graphic/blob/main/aboutme.png"></a>
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=egepekly&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/egepekly)
-<p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
+<p align="left"><img align="left" src="https://github.com/egepekly/graphic/blob/main/loader.gif" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
