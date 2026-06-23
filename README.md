@@ -28,7 +28,7 @@
  <a href="https://www.instagram.com/egepekkolay/" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/instagram.png" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/egepekkolay" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/u%C4%B1.png" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/egepekkolay" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/codepen.png" alt="Codepen" height="50" title="Codepen"></a>
- <a href="https://egepekkolay.net.tr" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/web.png" alt="Portfolio" height="50" title="Portfolio"></a>
+ <a href="https://maxifyazilim.com.tr" target="_blank"><img src="https://github.com/egepekly/graphic/blob/main/web.png" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=egepekly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
